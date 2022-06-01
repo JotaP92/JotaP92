@@ -2,7 +2,6 @@
 
 - 👨‍🎓 Cursando 6° termo em Análise e Desenvolvimento de Sistemas na FATEC
 - 🌱 Estudando Javascript
-- 😄 Pronomes: ele/dele
 
 
 <div>
