@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Pedro 
 
 - 👨‍🎓 Cursando 6° termo em Análise e Desenvolvimento de Sistemas na FATEC
-- 🌱 Estudando PHP
+- 🌱 Atualmente estudando Python
 
 
 <div>
