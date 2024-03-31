@@ -1,8 +1,4 @@
-### Olá! Eu sou o João Pedro 
-
-- 👨‍🎓 Cursando 6° termo em Análise e Desenvolvimento de Sistemas na FATEC
-
-
+###
 
 <div>
   <a href="https://github.com/JotaP92">
